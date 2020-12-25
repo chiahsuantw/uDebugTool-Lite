@@ -10,4 +10,4 @@ Lastest version: Release 1.0  ( Updated at 8th, March, 2020 )</b>
 
 ***
 #### Co-developer: @cookieopjax
-#### Official Website：[Click here](https://sites.google.com/mail.fcu.edu.tw/udebugtool/%E7%B0%A1%E4%BB%8B?authuser=0 "uDebugTool Official Website")
+#### Official Website：[Click here](https://sites.google.com/view/udebugtool "uDebugTool Official Website")
